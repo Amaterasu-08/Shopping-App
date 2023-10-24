@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 150,
+        "imgUrl":"/imgs/books.png"
+
+    },
+    {
+        "id":2,
+        "name": "Shirt",
+        "price": 699,
+        "imgUrl":"/imgs/Kakashi.png"
+   },
+   {
+    "id":3,
+    "name":"Laptop",
+    "price": 50000,
+    "imgUrl":"/imgs/laptop.png"
+   },
+   {
+    "id":4,
+    "name":"Pants",
+    "price": 3000,
+    "imgUrl":"/imgs/pants.png"
+   },
+   {
+    "id":5,
+    "name":"Fridge",
+    "price":120000,
+    "imgUrl":"/imgs/fridge.png"
+   },
+   {
+    "id":6,
+    "name":"Telivision",
+    "price":100000,
+    "imgUrl":"/imgs/tv.png"
+   },
+   {
+    "id":7,
+    "name":"Katy Perry",
+    "price":10000000,
+    "imgUrl":"/imgs/katty_perry.png"
+   }
+]
